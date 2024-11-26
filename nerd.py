@@ -1,7 +1,3 @@
-from PIL import Image
-img = Image.open("/home/kali/nerd.png")
-img.show()
-
 import webbrowser
 
 def search_website(base_url):
